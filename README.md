@@ -17,6 +17,6 @@ OurStory.html: The code describes the story of the company which is 'Food Point'
 
 style.css: This is the stylesheet block which gives us the proper look of the webpage.
 
-Header styling: It consists of two “head” tags. We have used font-style ;Open Sans', sans-serif to style the header and we also used proper colors to make some text look                 attractive.
+Header styling: It consists of two “head” tags. We have used font-style ;Open Sans', sans-serif to style the header and also used proper colors to make some text look                 attractive.
 
-Navigation bar styling: It basically consists of logo styling and content styling. First of all we have considered the navigation bar as a flexbox and assigned the flex-                         direction to “column”. We have the logo desiged using   by display:block. We have used the margin:auto property to center the image. Then we                               considered the content of the navigation bar as a flexbox and then we have positioned it properly.
+Navigation bar styling: It basically consists of logo styling and content styling. First of all we have considered the navigation bar as a flexbox and assigned the flex-                         direction to “column”. The logo desiged using by display:block. We have used the margin:auto property to center the image. Then have                                     considered the content of the navigation bar as a flexbox and then we have positioned it properly.
